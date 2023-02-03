@@ -10,7 +10,7 @@
 
 🪣 Solver for the Water Jug Riddle (famous from [Die Hard 3](https://www.youtube.com/watch?v=2vdF6NASMiE))
 
-[**See it in action!**](http://water-jug-solver-client.us-east-1.elasticbeanstalk.com/)
+[**See it in action!**](https://water-jug-solver.devillers.nl)
 
 ## ✨ Features
 
